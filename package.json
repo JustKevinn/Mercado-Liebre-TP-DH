@@ -2,7 +2,7 @@
   "dependencies": {
     "express": "^4.18.1"
   },
-  "name": "tp-mercadolibre",
+  "name": "tp-mercadoliebre",
   "version": "1.0.0",
   "main": "app.js",
   "devDependencies": {},
